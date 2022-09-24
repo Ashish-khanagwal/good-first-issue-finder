@@ -1,6 +1,6 @@
 {
   "name": "issue-finder",
-  "version": "2.4.0",
+  "version": "2.6.1",
   "scripts": {
     "dev": "vite dev",
     "build": "vite build",
@@ -18,8 +18,8 @@
   "devDependencies": {
     "@playwright/test": "^1.25.2",
     "@popperjs/core": "^2.11.6",
-    "@sveltejs/adapter-node": "1.0.0-next.88",
-    "@sveltejs/kit": "1.0.0-next.476",
+    "@sveltejs/adapter-node": "1.0.0-next.92",
+    "@sveltejs/kit": "1.0.0-next.485",
     "@tailwindcss/typography": "^0.5.7",
     "@types/cookie": "^0.5.1",
     "@typescript-eslint/eslint-plugin": "^4.31.1",
@@ -36,6 +36,8 @@
     "prettier": "^2.7.1",
     "prettier-plugin-svelte": "^2.7.0",
     "prettier-plugin-tailwindcss": "^0.1.13",
+    "rehype-autolink-headings": "^6.1.1",
+    "rehype-slug": "^5.0.1",
     "svelte": "^3.50.0",
     "svelte-check": "^2.9.0",
     "svelte-preprocess": "^4.10.7",
